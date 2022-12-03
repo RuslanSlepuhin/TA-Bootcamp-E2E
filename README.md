@@ -1,14 +1,10 @@
 # TA-Bootcamp-E2E
 
-## For running thees tests you need: 
+## For running this test you need: 
 1. clone or fork this repository to your local machine
 2. open the folder in your IDE
 3. type "yarn install" to install all modules mentioned in package.json
 4. type "yarn test" for run this test
-5. if you need to see the browser process, remove the following settings in wdio.conf.js on 61-63 lines:
-'goog:chromeOptions': {
-            args: ['--headless', '--no-sandbox', '--disable-gpu', '--disable-dev-shm-usage', '--window-size=1920,1080']
-          }
 
 # The Hometask
 
