@@ -1,6 +1,6 @@
 # TA-Bootcamp-E2E
 
-## For running thees tests you need:
+## For running thees tests you need: 
 1. clone or fork this repository to your local machine
 2. open the folder in your IDE
 3. type "yarn install" to install all modules mentioned in package.json
