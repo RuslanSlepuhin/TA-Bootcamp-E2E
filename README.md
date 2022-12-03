@@ -3,7 +3,7 @@
 ### For running this tests you need:
 1. clone or fork this repository to your local machine
 2. open the folder in your IDE
-3. type "yarn install" to install all modules package.json regarding
+3. type "yarn install" to install all modules mentioned in package.json
 4. type "yarn test" for run this test
 
 # The Hometask
