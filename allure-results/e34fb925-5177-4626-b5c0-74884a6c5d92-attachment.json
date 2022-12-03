@@ -1,4 +1,0 @@
-{
-  "using": "css selector",
-  "value": "header div[class*=\"popup-body-title\"]"
-}
